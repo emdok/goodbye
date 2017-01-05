@@ -28,3 +28,8 @@ This recipe is from my dad, and they are a favorite among friends and family. Th
 6. Bake for **10 minutes** or until golden brown.
 
 [Click here](http://allrecipes.com/) to check out my other great recipes.
+
+<p>This is a normal paragraph:</p>
+
+<pre><code>This is a code block.
+</code></pre>
